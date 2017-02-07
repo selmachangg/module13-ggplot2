@@ -37,7 +37,7 @@ ggplot(data = diamonds) +
 # Draw another scatter plot for `diamonds.sample` of price (y) by carat (x),
 # but with all of the dots colored "blue".
 # Hint: you'll need to set the color channel, not map a value to it!
-
+#dkfsjlkdf
 
 # Draw a scatter plot for `diamonds.sample` of `price` by `carat`, where each
 # point has an aesthetic _shape_ based on the diamond's `cut`.
